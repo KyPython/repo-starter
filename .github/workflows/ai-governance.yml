@@ -24,7 +24,7 @@ jobs:
     permissions:
       contents: read
       checks: read
-    uses: KyPython/ai-governance/.github/workflows/governance.yml@3c26e4b5dd6d1c3ae98624bc4115633fad64ad54 # main
+    uses: KyPython/ai-governance/.github/workflows/governance.yml@3c26e4b5dd6d1c3ae98624bc4115633fad64ad54 # KyPython/ai-governance main 3c26e4b
     with:
       node-version: "22"
       # require-tests: true
